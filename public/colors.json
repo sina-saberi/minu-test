@@ -1,0 +1,62 @@
+[
+    {
+        "number": 1,
+        "name": "یک",
+        "color": "#dc2626"
+    },
+    {
+        "number": 2,
+        "name": "دو",
+        "color": "#16a34a"
+    },
+    {
+        "number": 3,
+        "name": "سه",
+        "color": "#2563eb"
+    },
+    {
+        "number": 4,
+        "name": "چهار",
+        "color": "#0f172a"
+    },
+    {
+        "number": 5,
+        "name": "پنج",
+        "color": "#db2777"
+    },
+    {
+        "number": 6,
+        "name": "شش",
+        "color": "#e11d48"
+    },
+    {
+        "number": 7,
+        "name": "هفت",
+        "color": "#4338ca"
+    },
+    {
+        "number": 8,
+        "name": "هشت",
+        "color": "#059669"
+    },
+    {
+        "number": 9,
+        "name": "نه",
+        "color": "#c026d3"
+    },
+    {
+        "number": 10,
+        "name": "ده",
+        "color": "#0284c7"
+    },
+    {
+        "number": 11,
+        "name": "یازده",
+        "color": "#7c2d12"
+    },
+    {
+        "number": 12,
+        "name": "دوازده",
+        "color": "#65a30d"
+    }
+]

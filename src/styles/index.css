@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "estedad";
+    src: url("./fonts/estedad/Estedad-FD[KSHD\,wght].ttf");
+}
+
+body {
+    font-family: "estedad";
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

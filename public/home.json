@@ -1,0 +1,66 @@
+{
+    "sliders": [
+        {
+            "id": 1,
+            "image": "/images/9f0125935bccc412c46e7af48c3a544d6a4ce05a_1693667587.jpg"
+        },
+        {
+            "id": 2,
+            "image": "/images/b389d8715a098ad0646f86c5f05273cdfbf23e4a_1681894028.jpg"
+        },
+        {
+            "id": 3,
+            "image": "/images/f441ac6e3788d0a5093f123334dcb0409799473e_1693731104.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "image": "/images/4dd62cbdd54525d778a09ec742dc20a25a7f1187_1675155770.jpg",
+            "name": "apple watch",
+            "price": 4000000,
+            "discountPercent": 50
+        },
+        {
+            "id": 2,
+            "image": "/images/5489090c0867cbec4291453f9b2518674185a905_1683467204.jpg",
+            "name": "iphone",
+            "price": 4500000,
+            "discountPercent": 50
+        },
+        {
+            "id": 3,
+            "image": "/images/6067668ad2aea0a6441b341a85bb62714ffe2b46_1646061791.jpg",
+            "name": "headphone",
+            "price": 600000
+        },
+        {
+            "id": 4,
+            "image": "/images/b92657ab8546b829925bb4970018eb4b9e5b9df2_1678627109.jpg",
+            "name": "laptop",
+            "price": 134400000,
+            "discountPercent": 50
+        },
+        {
+            "id": 5,
+            "image": "/images/b68745ad718d197afb1dca0cb6834904b6dccf44_1667403405.jpg",
+            "name": "mouse",
+            "price": 400000,
+            "discountPercent": 50
+        },
+        {
+            "id": 6,
+            "image": "/images/b68745ad718d197afb1dca0cb6834904b6dccf44_1667403405.jpg",
+            "name": "mouse",
+            "price": 200000,
+            "discountPercent": 50
+        },
+        {
+            "id": 7,
+            "image": "/images/c5534af789d2f0643b0ae7882797a52c407839e9_1653731273.jpg",
+            "name": "keyboard",
+            "price": 200000,
+            "discountPercent": 50
+        }
+    ]
+}
